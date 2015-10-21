@@ -1,0 +1,10 @@
+* {
+	margin: 0px;
+	padding: 0px;
+	font-family: arial;
+}
+
+#wrapper {
+	width: 460px;
+	border: 1px solid black;
+}
